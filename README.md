@@ -1,1 +1,4 @@
-# Uipath_projects
+# RPA - Uipath projects
+
+RPA - Robotic Process Automation
+RPA enables ease in deploying and managing software robots who just like us humans can do things like understand what’s on a screen, complete the right keystrokes, navigate systems, identify and extract data, and perform a wide range of defined actions. But software robots can do it faster and more consistently than people, without the need to get up and stretch or take a coffee break.
